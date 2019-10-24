@@ -70,7 +70,7 @@
 <p><a href="https://fafearn89.000webhostapp.com/">000webhost</a> 
 <br /><a href="https://Myfearn89.epizy.com">infinity</a></p>
 
-<h3 id="ข้อมูลจาก-8-ตาราง"><a href="https://github.com/suwatjanee005/nortwind_DB">ข้อมูลจาก 8 ตาราง</a></h3>
+<h3 id="ข้อมูลจาก-8-ตาราง"><a href="https://github.com/praew06/8_Nortwind/blob/master/products.sql">ข้อมูลจาก 8 ตาราง</a></h3>
 
 <h3 id="64-โปรแกรม-ซึ่งประกอบด้วย-8-ตาราง-nortwind"><a href="https://github.com/praew06/8_Nortwind">64 โปรแกรม</a> ซึ่งประกอบด้วย 8 ตาราง Nortwind</h3>
 
