@@ -1,6 +1,5 @@
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
 <body>
     <div class="w3-container">
         <br /> <br /> <br /> 
@@ -62,7 +61,7 @@
 <p><a href="https://github.com/praew06/php_pyramid/blob/master/Praew_31.php" class="button">pyramid31</a>
 <a href="https://github.com/praew06/php_pyramid/blob/master/Praew_32.php" class="button">pyramid32</a>
 <a href="https://github.com/praew06/php_pyramid/blob/master/Praew_33.php" class="button">pyramid33</a>
-<a href="hhttps://github.com/praew06/php_pyramid/blob/master/Praew_34.php" class="button">pyramid34</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_34.php.php" class="button">pyramid34</a>
 <a href="https://github.com/praew06/php_pyramid/blob/master/Praew_35.php" class="button">pyramid35</a></p>
 
 <p><a href="https://github.com/praew06/php_pyramid/blob/master/Praew_36.php" class="button">pyramid36</a></p>
@@ -78,25 +77,4 @@
 <h3 id="midterm-project-"><a href="https://github.com/praew06/midterm_php">Midterm Project </a></h3>
 
 
-      </section>
-
-      <footer>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            
-              <p>this project by <a href="https://github.com/praew06">suwatjanee005</a> can be found on <a href="https://github.com/praew06/web">GitHub</a></p>
-            
-            
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
-        <span class="octocat"></span>
-      </footer>
-
-    </div>
-
-    
-  </body>
-</html>
+     
