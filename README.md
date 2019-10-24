@@ -8,7 +8,7 @@
 </body>
 </html>
 
-<center><h2 id="welcome-to-my-profile">Welcome To My Profile</h2>
+<center><h2 id="welcome-to-my-profile">Welcome To My Profile</h2></center>
 
 <p>ชื่อ-สกุล : นางสาว พัชริดา  เจริญผล</p>
 
@@ -18,7 +18,7 @@
 
 <p>คณะบริหารธุรกิจและรัฐประศาสนศาสตร์</p>
 
-<p>สาขาวิทยาการคอมพิวเตอร์ ชั้นปีที่ 3</p><center>
+<p>สาขาวิทยาการคอมพิวเตอร์ ชั้นปีที่ 3</p>
 
 
 <h3 id="36-pyramid">36 Pyramid</h3>
