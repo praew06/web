@@ -76,5 +76,9 @@
 
 <h3 id="midterm-project-"><a href="https://github.com/praew06/midterm_php">Midterm Project </a></h3>
 
+<h3 id="free-web-host">Free web host</h3>
+<p><a href="https://patcharida006.000webhostapp.com">000webhost</a> 
+<br /><a href="https://Patcarida.epizy.com">infinity</a></p>
+
 
      
