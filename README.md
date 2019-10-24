@@ -1,37 +1,102 @@
-## Welcome to GitHub Pages
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+<body>
+    <div class="w3-container">
+        <br /> <br /> <br /> 
+  <center><img src="123.jpg" class="w3-round-xxlarge" w3-center="" style="width:50%" /></center>
+</div>
+</body>
+</html>
 
-You can use the [editor on GitHub](https://github.com/praew06/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h2 id="welcome-to-my-profile">Welcome To My Profile</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>ชื่อ-สกุล : นางสาว พัชริดา  เจริญผล</p>
 
-### Markdown
+<p>ชื่อเล่น : แพรว</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>ปัจจุบันศึกษาอยู่ที่มหาวิทยาลัยเนชั่น</p>
 
-```markdown
-Syntax highlighted code block
+<p>คณะบริหารธุรกิจและรัฐประศาสนศาสตร์</p>
 
-# Header 1
-## Header 2
-### Header 3
+<p>สาขาวิทยาการคอมพิวเตอร์ ชั้นปีที่ 3</p>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<h3 id="36-pyramid">36 Pyramid</h3>
+<p><a href="https://github.com/praew06/php_pyramid/blob/master/Praew_01.php" class="button">pyramid01</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_02.php" class="button">pyramid02</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_03.php" class="button">pyramid03</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_04.php" class="button">pyramid04</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_05.php" class="button">pyramid05</a></p>
 
-**Bold** and _Italic_ and `Code` text
+<p><a href="https://github.com/praew06/php_pyramid/blob/master/Praew_06.php" class="button">pyramid06</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_07.php" class="button">pyramid07</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_08.php" class="button">pyramid08</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_09.php" class="button">pyramid09</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_10.php" class="button">pyramid10</a></p>
 
-[Link](url) and ![Image](src)
-```
+<p><a href="https://github.com/praew06/php_pyramid/blob/master/Praew_11.php" class="button">pyramid11</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_12.php" class="button">pyramid12</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_13.php" class="button">pyramid13</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_14.php" class="button">pyramid14</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_15.php" class="button">pyramid15</a></p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p><a href="https://github.com/praew06/php_pyramid/blob/master/Praew_16.php" class="button">pyramid16</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_17.php" class="button">pyramid17</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_18.php" class="button">pyramid18</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_19.php" class="button">pyramid19</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_20.php" class="button">pyramid20</a></p>
 
-### Jekyll Themes
+<p><a href="https://github.com/praew06/php_pyramid/blob/master/Praew_21.php" class="button">pyramid21</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_22.php" class="button">pyramid22</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_23.php" class="button">pyramid23</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_24.php" class="button">pyramid24</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_25.php" class="button">pyramid25</a></p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/praew06/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p><a href="https://github.com/praew06/php_pyramid/blob/master/Praew_26.php" class="button">pyramid26</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_27.php" class="button">pyramid27</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_28.php" class="button">pyramid28</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_29.php" class="button">pyramid29</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_30.php" class="button">pyramid30</a></p>
 
-### Support or Contact
+<p><a href="https://github.com/praew06/php_pyramid/blob/master/Praew_31.php" class="button">pyramid31</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_32.php" class="button">pyramid32</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_33.php" class="button">pyramid33</a>
+<a href="hhttps://github.com/praew06/php_pyramid/blob/master/Praew_34.php" class="button">pyramid34</a>
+<a href="https://github.com/praew06/php_pyramid/blob/master/Praew_35.php" class="button">pyramid35</a></p>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p><a href="https://github.com/praew06/php_pyramid/blob/master/Praew_36.php" class="button">pyramid36</a></p>
+
+<h3 id="free-web-host">Free web host</h3>
+<p><a href="https://fafearn89.000webhostapp.com/">000webhost</a> 
+<br /><a href="https://Myfearn89.epizy.com">infinity</a></p>
+
+<h3 id="ข้อมูลจาก-8-ตาราง"><a href="https://github.com/suwatjanee005/nortwind_DB">ข้อมูลจาก 8 ตาราง</a></h3>
+
+<h3 id="64-โปรแกรม-ซึ่งประกอบด้วย-8-ตาราง-nortwind"><a href="https://github.com/praew06/8_Nortwind">64 โปรแกรม</a> ซึ่งประกอบด้วย 8 ตาราง Nortwind</h3>
+
+<h3 id="midterm-project-"><a href="https://github.com/praew06/midterm_php">Midterm Project </a></h3>
+
+
+      </section>
+
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            
+              <p>this project by <a href="https://github.com/praew06">suwatjanee005</a> can be found on <a href="https://github.com/praew06/web">GitHub</a></p>
+            
+            
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <span class="octocat"></span>
+      </footer>
+
+    </div>
+
+    
+  </body>
+</html>
