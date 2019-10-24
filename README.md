@@ -67,8 +67,8 @@
 <p><a href="https://github.com/praew06/php_pyramid/blob/master/Praew_36.php" class="button">pyramid36</a></p>
 
 <h3 id="free-web-host">Free web host</h3>
-<p><a href="https://fafearn89.000webhostapp.com/">000webhost</a> 
-<br /><a href="https://Myfearn89.epizy.com">infinity</a></p>
+<p><a href="https://patcharida006.000webhostapp.com">000webhost</a> 
+<br /><a href="https://Patcarida.epizy.com">infinity</a></p>
 
 <h3 id="ข้อมูลจาก-8-ตาราง"><a href="https://github.com/praew06/8_Nortwind/blob/master/products.sql">ข้อมูลจาก 8 ตาราง</a></h3>
 
@@ -76,9 +76,6 @@
 
 <h3 id="midterm-project-"><a href="https://github.com/praew06/midterm_php">Midterm Project </a></h3>
 
-<h3 id="free-web-host">Free web host</h3>
-<p><a href="https://patcharida006.000webhostapp.com">000webhost</a> 
-<br /><a href="https://Patcarida.epizy.com">infinity</a></p>
 
 
      
